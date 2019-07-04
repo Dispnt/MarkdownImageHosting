@@ -6,8 +6,8 @@ Move image in markdown to sm.ms. Support both inline style and reference style.
 ## Usage: 
 ### single file:<br>
 `python MarkdownImage.py [input.markdown] [output.markdown]` <br>
-This will move all images form a single file to a specified path<br>
 写明输入输出可以迁移单个文件内的图片<br>
+This will move all images from a single file to a specified path<br>
 ### Multiple files:<br>
 `python MarkdownImage.py` <br>
 不写就会迁移目录内所有 .txt 或 .md 内的 markdown 图片<br>
